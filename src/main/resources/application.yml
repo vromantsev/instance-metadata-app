@@ -1,0 +1,4 @@
+aws:
+  ec2:
+    instance-metadata: /latest/meta-data/
+
